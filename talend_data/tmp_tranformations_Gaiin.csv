@@ -1,0 +1,91 @@
+Planete;Gain;GDC_ID_REP;GDC_LABEL_FR_REP;GDC_LABEL_EN_REP;GDC_ID_EMP;GDC_LABEL_FR_EMP;GDC_LABEL_EN_EMP
+Alderaan datacrons;Aim +4;VISE;Visee;Visee;VISE;Visee;Aim
+Alderaan datacrons;Presence +3;PRES;Presence;Presence;PRES;Presence;Presence
+Alderaan datacrons;Willpower +3;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Alderaan datacrons;Strength +4;VIGU;Vigueur;Vigueur;VIGU;Vigueur;Strength
+Alderaan datacrons;Endurance +3;ENDU;Endurance;Endurance;ENDU;Endurance;Endurance
+Balmorra (Empire) datacrons;Strength +2;VIGU;Vigueur;Vigueur;VIGU;Vigueur;Strength
+Balmorra (Empire) datacrons;Aim +2;VISE;Visee;Visee;VISE;Visee;Aim
+Balmorra (Empire) datacrons;Willpower +2;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Balmorra (Empire) datacrons;Cunning +2;ASTU;Astuce;Astuce;ASTU;Astuce;Cunning
+Balmorra (Empire) datacrons;Green Matrix Shard;GREE;Green Matrix Shard;Green Matrix Shard;GREE;Green Matrix Shard;Green Matrix Shard
+Balmorra (Republic) datacrons;Aim +4;VISE;Visee;Visee;VISE;Visee;Aim
+Balmorra (Republic) datacrons;Cunning +4;ASTU;Astuce;Astuce;ASTU;Astuce;Cunning
+Balmorra (Republic) datacrons;Presence +4;PRES;Presence;Presence;PRES;Presence;Presence
+Balmorra (Republic) datacrons;Endurance +3;ENDU;Endurance;Endurance;ENDU;Endurance;Endurance
+Balmorra (Republic) datacrons;Willpower +4;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Belsavis datacrons;Willpower +4;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Belsavis datacrons;Endurance +4;ENDU;Endurance;Endurance;ENDU;Endurance;Endurance
+Belsavis datacrons;Presence +4;PRES;Presence;Presence;PRES;Presence;Presence
+Belsavis datacrons;Aim +4;VISE;Visee;Visee;VISE;Visee;Aim
+Belsavis datacrons;Green Matrix Shard;GREE;Green Matrix Shard;Green Matrix Shard;GREE;Green Matrix Shard;Green Matrix Shard
+Corellia datacrons;Strength +4;VIGU;Vigueur;Vigueur;VIGU;Vigueur;Strength
+Corellia datacrons;REPUBLIC - Willpower +4;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Corellia datacrons;Blue Matrix Shard;BLUE;Blue Matrix Shard;Blue Matrix Shard;BLUE;Blue Matrix Shard;Blue Matrix Shard
+Corellia datacrons;Presence +4;PRES;Presence;Presence;PRES;Presence;Presence
+Corellia datacrons;Aim +4;VISE;Visee;Visee;VISE;Visee;Aim
+Corellia datacrons;Cunning +4;ASTU;Astuce;Astuce;ASTU;Astuce;Cunning
+Corellia datacrons;Green Matrix Shard;GREE;Green Matrix Shard;Green Matrix Shard;GREE;Green Matrix Shard;Green Matrix Shard
+Corellia datacrons;EMPIRE Willpower +4;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Coruscant datacrons;Presence +2;PRES;Presence;Presence;PRES;Presence;Presence
+Coruscant datacrons;Yellow Matrix Shard;YELL;Yellow Matrix Shard;Yellow Matrix Shard;YELL;Yellow Matrix Shard;Yellow Matrix Shard
+Coruscant datacrons;Strength +2;VIGU;Vigueur;Vigueur;VIGU;Vigueur;Strength
+Coruscant datacrons;Endurance +2;ENDU;Endurance;Endurance;ENDU;Endurance;Endurance
+Coruscant datacrons;Cunning +2;ASTU;Astuce;Astuce;ASTU;Astuce;Cunning
+Dromund Kaas datacrons;Strength +2;VIGU;Vigueur;Vigueur;VIGU;Vigueur;Strength
+Dromund Kaas datacrons;Presence +2;PRES;Presence;Presence;PRES;Presence;Presence
+Dromund Kaas datacrons;Cunning +2;ASTU;Astuce;Astuce;ASTU;Astuce;Cunning
+Dromund Kaas datacrons;Yellow Matrix Shard;YELL;Yellow Matrix Shard;Yellow Matrix Shard;YELL;Yellow Matrix Shard;Yellow Matrix Shard
+Dromund Kaas datacrons;Endurance +2;ENDU;Endurance;Endurance;ENDU;Endurance;Endurance
+Hoth datacrons;Presence +4;PRES;Presence;Presence;PRES;Presence;Presence
+Hoth datacrons;Red Matrix Shard;REDM;Red Matrix Shard;Red Matrix Shard;REDM;Red Matrix Shard;Red Matrix Shard
+Hoth datacrons;Endurance +4;ENDU;Endurance;Endurance;ENDU;Endurance;Endurance
+Hoth datacrons;Cunning +4;ASTU;Astuce;Astuce;ASTU;Astuce;Cunning
+Hoth datacrons;Strength +4;VIGU;Vigueur;Vigueur;VIGU;Vigueur;Strength
+Hutta datacrons;Aim +2;VISE;Visee;Visee;VISE;Visee;Aim
+Hutta datacrons;Blue Matrix Shard;BLUE;Blue Matrix Shard;Blue Matrix Shard;BLUE;Blue Matrix Shard;Blue Matrix Shard
+Hutta datacrons;Presence +2;PRES;Presence;Presence;PRES;Presence;Presence
+Ilum datacrons;Aim +4;VISE;Visee;Visee;VISE;Visee;Aim
+Ilum datacrons;Endurance +4;ENDU;Endurance;Endurance;ENDU;Endurance;Endurance
+Ilum datacrons;Red Matrix Shard;REDM;Red Matrix Shard;Red Matrix Shard;REDM;Red Matrix Shard;Red Matrix Shard
+Ilum datacrons;Willpower +4;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Ilum datacrons;Yellow Matrix Shard;YELL;Yellow Matrix Shard;Yellow Matrix Shard;YELL;Yellow Matrix Shard;Yellow Matrix Shard
+Korriban datacrons;Willpower +2;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Korriban datacrons;Endurance +2;ENDU;Endurance;Endurance;ENDU;Endurance;Endurance
+Korriban datacrons;Red Matrix Shard;REDM;Red Matrix Shard;Red Matrix Shard;REDM;Red Matrix Shard;Red Matrix Shard
+Nar Shaddaa datacrons;Republic - Aim +3;VISE;Visee;Visee;VISE;Visee;Aim
+Nar Shaddaa datacrons;Republic - Presence +3;PRES;Presence;Presence;PRES;Presence;Presence
+Nar Shaddaa datacrons;Cunning +3;ASTU;Astuce;Astuce;ASTU;Astuce;Cunning
+Nar Shaddaa datacrons;Republic - Strength +3;VIGU;Vigueur;Vigueur;VIGU;Vigueur;Strength
+Nar Shaddaa datacrons;Yellow Matrix Shard;YELL;Yellow Matrix Shard;Yellow Matrix Shard;YELL;Yellow Matrix Shard;Yellow Matrix Shard
+Nar Shaddaa datacrons;Empire - Aim +3;VISE;Visee;Visee;VISE;Visee;Aim
+Nar Shaddaa datacrons;Empire - Presence +3;PRES;Presence;Presence;PRES;Presence;Presence
+Nar Shaddaa datacrons;Empire - Strength +3;VIGU;Vigueur;Vigueur;VIGU;Vigueur;Strength
+Ord Mantell datacrons;Red Matrix Shard;REDM;Red Matrix Shard;Red Matrix Shard;REDM;Red Matrix Shard;Red Matrix Shard
+Ord Mantell datacrons;Presence +2;PRES;Presence;Presence;PRES;Presence;Presence
+Ord Mantell datacrons;Aim +2;VISE;Visee;Visee;VISE;Visee;Aim
+Quesh datacrons;Cunning +4;ASTU;Astuce;Astuce;ASTU;Astuce;Cunning
+Quesh datacrons;Endurance +4;ENDU;Endurance;Endurance;ENDU;Endurance;Endurance
+Quesh datacrons;Strength +4;VIGU;Vigueur;Vigueur;VIGU;Vigueur;Strength
+Republic Fleet datacrons;Stats +10;STAT;Stats;Stats;STAT;Stats;Stats
+Taris datacrons;REPUBLIC Strength +2 or EMPIRE Presence +4;VIGU;Vigueur;Presence;PRES;Presence;Presence
+Taris datacrons;REPUBLIC Aim +2 or EMPIRE Endurance +3;VISE;Visee;Endurance;ENDU;Endurance;Endurance
+Taris datacrons;REPUBLIC Cunning +2 or EMPIRE Aim + 4;ASTU;Astuce;Visee;VISE;Visee;Aim
+Taris datacrons;REPUBLIC Willpower + 2;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Taris datacrons;REPUBLIC Green Matrix Shard;GREE;Green Matrix Shard;Green Matrix Shard;GREE;Green Matrix Shard;Green Matrix Shard
+Taris datacrons;EMPIRE Willpower +4;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Taris datacrons;EMPIRE Cunning +4;ASTU;Astuce;Astuce;ASTU;Astuce;Cunning
+Tatooine datacrons;Republic - Cunning +3;ASTU;Astuce;Astuce;ASTU;Astuce;Cunning
+Tatooine datacrons;Willpower +3;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Tatooine datacrons;Aim +3;VISE;Visee;Visee;VISE;Visee;Aim
+Tatooine datacrons;Blue Matrix Shard;BLUE;Blue Matrix Shard;Blue Matrix Shard;BLUE;Blue Matrix Shard;Blue Matrix Shard
+Tatooine datacrons;Strength +3;VIGU;Vigueur;Vigueur;VIGU;Vigueur;Strength
+Tatooine datacrons;Empire - Cunning +3;ASTU;Astuce;Astuce;ASTU;Astuce;Cunning
+Tython datacrons;Endurance +2;ENDU;Endurance;Endurance;ENDU;Endurance;Endurance
+Tython datacrons;Willpower + 2;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Tython datacrons;Blue Matrix Shard;BLUE;Blue Matrix Shard;Blue Matrix Shard;BLUE;Blue Matrix Shard;Blue Matrix Shard
+Voss datacrons;Willpower +4;VOLO;Volonté;Volonté;VOLO;Volonté;Willpower
+Voss datacrons;Presence +4;PRES;Presence;Presence;PRES;Presence;Presence
+Voss datacrons;Endurance +4;ENDU;Endurance;Endurance;ENDU;Endurance;Endurance
+Voss datacrons;Strength +4;VIGU;Vigueur;Vigueur;VIGU;Vigueur;Strength
+Voss datacrons;Cunning +4;ASTU;Astuce;Astuce;ASTU;Astuce;Cunning
