@@ -1,0 +1,78 @@
+DTC_ID;DTC_TITLE;DTC_NO_CODEX_REP;DTC_NO_CODEX_EMP;DTC_COORD_X;DTC_COORD_Y;DTC_URL_DETAILS;DTC_IS_EMP;DTC_IS_REP;PLA_ID;DTG_VALUE;GAIN_INIT
+ALDE_EMP_VISE;TO_DEFINE;;;1107;80;http://www.swtor-spy.com/datacrons/alderaan/327/#Alderaan_datacron_Aim4;true;false;ALDE;4;Aim +4
+ALDE_EMP_PRES;TO_DEFINE;;;-82;-268;http://www.swtor-spy.com/datacrons/alderaan/327/#Alderaan_datacron_Presence3;true;false;ALDE;3;Presence +3
+ALDE_EMP_VOLO;TO_DEFINE;;;-2508;-427;http://www.swtor-spy.com/datacrons/alderaan/327/#Alderaan_datacron_Willpower3;true;false;ALDE;3;Willpower +3
+ALDE_EMP_VIGU;TO_DEFINE;;;2190;-2019;http://www.swtor-spy.com/datacrons/alderaan/327/#Alderaan_datacron_Strength4;true;false;ALDE;4;Strength +4
+ALDE_EMP_ENDU;TO_DEFINE;;;2721;2496;http://www.swtor-spy.com/datacrons/alderaan/327/#Alderaan_datacron_Endurance3;true;false;ALDE;3;Endurance +3
+BALM_EMP_VIGU;TO_DEFINE;;;727;2033;http://www.swtor-spy.com/datacrons/balmorra-empire/193/#Balmorra (Empire)_datacron_Strength2;true;false;BALM;2;Strength +2
+BALM_EMP_VISE;TO_DEFINE;;;-1017;1514;http://www.swtor-spy.com/datacrons/balmorra-empire/193/#Balmorra (Empire)_datacron_Aim2;true;false;BALM;2;Aim +2
+BALM_EMP_VOLO;TO_DEFINE;;;191;-346;http://www.swtor-spy.com/datacrons/balmorra-empire/193/#Balmorra (Empire)_datacron_Willpower2;true;false;BALM;2;Willpower +2
+BALM_EMP_ASTU;TO_DEFINE;;;1853;111;http://www.swtor-spy.com/datacrons/balmorra-empire/193/#Balmorra (Empire)_datacron_Cunning2;true;false;BALM;2;Cunning +2
+BALM_EMP_GREE;TO_DEFINE;;;-505;1990;http://www.swtor-spy.com/datacrons/balmorra-empire/193/#Balmorra (Empire)_datacron_GreenMatrixShard;true;false;BALM;0;Green Matrix Shard
+BELS_EMP_VOLO;TO_DEFINE;;;-501;768;http://www.swtor-spy.com/datacrons/belsavis/643/#Belsavis_datacron_Willpower4;true;false;BELS;4;Willpower +4
+BELS_EMP_ENDU;TO_DEFINE;;;-992;-450;http://www.swtor-spy.com/datacrons/belsavis/643/#Belsavis_datacron_Endurance4;true;false;BELS;4;Endurance +4
+BELS_EMP_PRES;TO_DEFINE;;;-1915;-476;http://www.swtor-spy.com/datacrons/belsavis/643/#Belsavis_datacron_Presence4;true;false;BELS;4;Presence +4
+BELS_EMP_VISE;TO_DEFINE;;;-785;-1930;http://www.swtor-spy.com/datacrons/belsavis/643/#Belsavis_datacron_Aim4;true;false;BELS;4;Aim +4
+BELS_EMP_GREE;TO_DEFINE;;;-315;-2172;http://www.swtor-spy.com/datacrons/belsavis/643/#Belsavis_datacron_GreenMatrixShard;true;false;BELS;0;Green Matrix Shard
+CORE_EMP_VIGU;TO_DEFINE;;;-2755;-2005;http://www.swtor-spy.com/datacrons/corellia/970/#Corellia_datacron_Strength4;true;false;CORE;4;Strength +4
+CORE_EMP_BLUE;TO_DEFINE;;;-2425;-1063;http://www.swtor-spy.com/datacrons/corellia/970/#Corellia_datacron_BlueMatrixShard;true;false;CORE;0;Blue Matrix Shard
+CORE_EMP_PRES;TO_DEFINE;;;3425;-3209;http://www.swtor-spy.com/datacrons/corellia/970/#Corellia_datacron_Presence4;true;false;CORE;4;Presence +4
+CORE_EMP_VISE;TO_DEFINE;;;3140;-1790;http://www.swtor-spy.com/datacrons/corellia/970/#Corellia_datacron_Aim4;true;false;CORE;4;Aim +4
+CORE_EMP_ASTU;TO_DEFINE;;;-2658;-3114;http://www.swtor-spy.com/datacrons/corellia/970/#Corellia_datacron_Cunning4;true;false;CORE;4;Cunning +4
+CORE_EMP_GREE;TO_DEFINE;;;702;-1884;http://www.swtor-spy.com/datacrons/corellia/970/#Corellia_datacron_GreenMatrixShard;true;false;CORE;0;Green Matrix Shard
+CORE_EMP_VOLO;TO_DEFINE;;;-2404;2948;http://www.swtor-spy.com/datacrons/corellia/970/#Corellia_datacron_EMPIREWillpower4;true;false;CORE;4;EMPIRE Willpower +4
+CORU_EMP_PRES;TO_DEFINE;;;2320;1055;http://www.swtor-spy.com/datacrons/coruscant/41/#Coruscant_datacron_Presence2;true;false;CORU;2;Presence +2
+CORU_EMP_YELL;TO_DEFINE;;;905;4557;http://www.swtor-spy.com/datacrons/coruscant/41/#Coruscant_datacron_YellowMatrixShard;true;false;CORU;0;Yellow Matrix Shard
+CORU_EMP_VIGU;TO_DEFINE;;;-3087;3030;http://www.swtor-spy.com/datacrons/coruscant/41/#Coruscant_datacron_Strength2;true;false;CORU;2;Strength +2
+CORU_EMP_ENDU;TO_DEFINE;;;-3729;161;http://www.swtor-spy.com/datacrons/coruscant/41/#Coruscant_datacron_Endurance2;true;false;CORU;2;Endurance +2
+CORU_EMP_ASTU;TO_DEFINE;;;1021;3967;http://www.swtor-spy.com/datacrons/coruscant/41/#Coruscant_datacron_Cunning2;true;false;CORU;2;Cunning +2
+DROM_EMP_VIGU;TO_DEFINE;;;855;643;http://www.swtor-spy.com/datacrons/dromund-kaas/115/#Dromund Kaas_datacron_Strength2;true;false;DROM;2;Strength +2
+DROM_EMP_PRES;TO_DEFINE;;;581;798;http://www.swtor-spy.com/datacrons/dromund-kaas/115/#Dromund Kaas_datacron_Presence2;true;false;DROM;2;Presence +2
+DROM_EMP_ASTU;TO_DEFINE;;;-1219;209;http://www.swtor-spy.com/datacrons/dromund-kaas/115/#Dromund Kaas_datacron_Cunning2;true;false;DROM;2;Cunning +2
+DROM_EMP_YELL;TO_DEFINE;;;-187;1738;http://www.swtor-spy.com/datacrons/dromund-kaas/115/#Dromund Kaas_datacron_YellowMatrixShard;true;false;DROM;0;Yellow Matrix Shard
+DROM_EMP_ENDU;TO_DEFINE;;;-793;1450;http://www.swtor-spy.com/datacrons/dromund-kaas/115/#Dromund Kaas_datacron_Endurance2;true;false;DROM;2;Endurance +2
+HOTH_EMP_PRES;TO_DEFINE;;;1039;-1243;http://www.swtor-spy.com/datacrons/hoth-2/802/#Hoth_datacron_Presence4;true;false;HOTH;4;Presence +4
+HOTH_EMP_REDM;TO_DEFINE;;;-738;1705;http://www.swtor-spy.com/datacrons/hoth-2/802/#Hoth_datacron_RedMatrixShard;true;false;HOTH;0;Red Matrix Shard
+HOTH_EMP_ENDU;TO_DEFINE;;;2837;-375;http://www.swtor-spy.com/datacrons/hoth-2/802/#Hoth_datacron_Endurance4;true;false;HOTH;4;Endurance +4
+HOTH_EMP_ASTU;TO_DEFINE;;;3144;475;http://www.swtor-spy.com/datacrons/hoth-2/802/#Hoth_datacron_Cunning4;true;false;HOTH;4;Cunning +4
+HOTH_EMP_VIGU;TO_DEFINE;;;-4102;115;http://www.swtor-spy.com/datacrons/hoth-2/802/#Hoth_datacron_Strength4;true;false;HOTH;4;Strength +4
+HUTT_EMP_VISE;TO_DEFINE;;;-96;861;http://www.swtor-spy.com/datacrons/hutta/9/#Hutta_datacron_Aim2;true;false;HUTT;2;Aim +2
+HUTT_EMP_BLUE;TO_DEFINE;;;-9;319;http://www.swtor-spy.com/datacrons/hutta/9/#Hutta_datacron_BlueMatrixShard;true;false;HUTT;0;Blue Matrix Shard
+HUTT_EMP_PRES;TO_DEFINE;;;648;-107;http://www.swtor-spy.com/datacrons/hutta/9/#Hutta_datacron_Presence2;true;false;HUTT;2;Presence +2
+ILUM_EMP_VISE;TO_DEFINE;;;920;1075;http://www.swtor-spy.com/datacrons/ilum-2/1633/#Ilum_datacron_Aim4;true;false;ILUM;4;Aim +4
+ILUM_EMP_ENDU;TO_DEFINE;;;103;-80;http://www.swtor-spy.com/datacrons/ilum-2/1633/#Ilum_datacron_Endurance4;true;false;ILUM;4;Endurance +4
+ILUM_EMP_REDM;TO_DEFINE;;;543;544;http://www.swtor-spy.com/datacrons/ilum-2/1633/#Ilum_datacron_RedMatrixShard;true;false;ILUM;0;Red Matrix Shard
+ILUM_EMP_VOLO;TO_DEFINE;;;304;-1568;http://www.swtor-spy.com/datacrons/ilum-2/1633/#Ilum_datacron_Willpower4;true;false;ILUM;4;Willpower +4
+ILUM_EMP_YELL;TO_DEFINE;;;311;-377;http://www.swtor-spy.com/datacrons/ilum-2/1633/#Ilum_datacron_YellowMatrixShard;true;false;ILUM;0;Yellow Matrix Shard
+KORR_EMP_VOLO;TO_DEFINE;;;529;65;http://www.swtor-spy.com/datacrons/korriban/7/#Korriban_datacron_Willpower2;true;false;KORR;2;Willpower +2
+KORR_EMP_ENDU;TO_DEFINE;;;150;78;http://www.swtor-spy.com/datacrons/korriban/7/#Korriban_datacron_Endurance2;true;false;KORR;2;Endurance +2
+KORR_EMP_REDM;TO_DEFINE;;;-55;379;http://www.swtor-spy.com/datacrons/korriban/7/#Korriban_datacron_RedMatrixShard;true;false;KORR;0;Red Matrix Shard
+NARS_EMP_ASTU;TO_DEFINE;;;1958;3288;http://www.swtor-spy.com/datacrons/nar-shaddaa/94/#Nar Shaddaa_datacron_Cunning3;true;false;NARS;3;Cunning +3
+NARS_EMP_YELL;TO_DEFINE;;;1781;3084;http://www.swtor-spy.com/datacrons/nar-shaddaa/94/#Nar Shaddaa_datacron_YellowMatrixShard;true;false;NARS;0;Yellow Matrix Shard
+NARS_EMP_VISE;TO_DEFINE;;;-3699;-1692;http://www.swtor-spy.com/datacrons/nar-shaddaa/94/#Nar Shaddaa_datacron_EmpireAim3;true;false;NARS;3;Empire - Aim +3
+NARS_EMP_PRES;TO_DEFINE;;;2930;400;http://www.swtor-spy.com/datacrons/nar-shaddaa/94/#Nar Shaddaa_datacron_EmpirePresence3;true;false;NARS;3;Empire - Presence +3
+NARS_EMP_VIGU;TO_DEFINE;;;2017;2441;http://www.swtor-spy.com/datacrons/nar-shaddaa/94/#Nar Shaddaa_datacron_EmpireStrength3;true;false;NARS;3;Empire - Strength +3
+ORDM_EMP_REDM;TO_DEFINE;;;778;133;http://www.swtor-spy.com/datacrons/ord-mantell/8/#Ord Mantell_datacron_RedMatrixShard;true;false;ORDM;0;Red Matrix Shard
+ORDM_EMP_PRES;TO_DEFINE;;;-971;201;http://www.swtor-spy.com/datacrons/ord-mantell/8/#Ord Mantell_datacron_Presence2;true;false;ORDM;2;Presence +2
+ORDM_EMP_VISE;TO_DEFINE;;;-660;-561;http://www.swtor-spy.com/datacrons/ord-mantell/8/#Ord Mantell_datacron_Aim2;true;false;ORDM;2;Aim +2
+QUES_EMP_ASTU;TO_DEFINE;;;425;-132;http://www.swtor-spy.com/datacrons/quesh/906/#Quesh_datacron_Cunning4;true;false;QUES;4;Cunning +4
+QUES_EMP_ENDU;TO_DEFINE;;;207;773;http://www.swtor-spy.com/datacrons/quesh/906/#Quesh_datacron_Endurance4;true;false;QUES;4;Endurance +4
+QUES_EMP_VIGU;TO_DEFINE;;;557;1422;http://www.swtor-spy.com/datacrons/quesh/906/#Quesh_datacron_Strength4;true;false;QUES;4;Strength +4
+TARI_EMP_PRES;TO_DEFINE;;;1187;-571;http://www.swtor-spy.com/datacrons/taris/69/#Taris_datacron_REPUBLICStrength2orEMPIREPresence4;true;false;TARI;0;REPUBLIC Strength +2 or EMPIRE Presence +4
+TARI_EMP_ENDU;TO_DEFINE;;;-1515;-253;http://www.swtor-spy.com/datacrons/taris/69/#Taris_datacron_REPUBLICAim2orEMPIREEndurance3;true;false;TARI;0;REPUBLIC Aim +2 or EMPIRE Endurance +3
+TARI_EMP_VISE;TO_DEFINE;;;1047;454;http://www.swtor-spy.com/datacrons/taris/69/#Taris_datacron_REPUBLICCunning2orEMPIREAim4;true;false;TARI;0;REPUBLIC Cunning +2 or EMPIRE Aim + 4
+TARI_EMP_VOLO;TO_DEFINE;;;444;-772;http://www.swtor-spy.com/datacrons/taris/69/#Taris_datacron_EMPIREWillpower4;true;false;TARI;4;EMPIRE Willpower +4
+TARI_EMP_ASTU;TO_DEFINE;;;-643;1606;http://www.swtor-spy.com/datacrons/taris/69/#Taris_datacron_EMPIRECunning4;true;false;TARI;4;EMPIRE Cunning +4
+TATO_EMP_VOLO;TO_DEFINE;;;2115;-596;http://www.swtor-spy.com/datacrons/tatooine/139/#Tatooine_datacron_Willpower3;true;false;TATO;3;Willpower +3
+TATO_EMP_VISE;TO_DEFINE;;;-628;-30;http://www.swtor-spy.com/datacrons/tatooine/139/#Tatooine_datacron_Aim3;true;false;TATO;3;Aim +3
+TATO_EMP_BLUE;TO_DEFINE;;;-2391;-1381;http://www.swtor-spy.com/datacrons/tatooine/139/#Tatooine_datacron_BlueMatrixShard;true;false;TATO;0;Blue Matrix Shard
+TATO_EMP_VIGU;TO_DEFINE;;;-2391;-1381;http://www.swtor-spy.com/datacrons/tatooine/139/#Tatooine_datacron_Strength3;true;false;TATO;3;Strength +3
+TATO_EMP_ASTU;TO_DEFINE;;;726;3137;http://www.swtor-spy.com/datacrons/tatooine/139/#Tatooine_datacron_EmpireCunning3;true;false;TATO;3;Empire - Cunning +3
+TYTH_EMP_ENDU;TO_DEFINE;;;-33;-102;http://www.swtor-spy.com/datacrons/tython/31/#Tython_datacron_Endurance2;true;false;TYTH;2;Endurance +2
+TYTH_EMP_VOLO;TO_DEFINE;;;-648;-72;http://www.swtor-spy.com/datacrons/tython/31/#Tython_datacron_Willpower2;true;false;TYTH;2;Willpower + 2
+TYTH_EMP_BLUE;TO_DEFINE;;;-93;922;http://www.swtor-spy.com/datacrons/tython/31/#Tython_datacron_BlueMatrixShard;true;false;TYTH;0;Blue Matrix Shard
+VOSS_EMP_VOLO;TO_DEFINE;;;-29;372;http://www.swtor-spy.com/datacrons/voss/858/#Voss_datacron_Willpower4;true;false;VOSS;4;Willpower +4
+VOSS_EMP_PRES;TO_DEFINE;;;2144;-840;http://www.swtor-spy.com/datacrons/voss/858/#Voss_datacron_Presence4;true;false;VOSS;4;Presence +4
+VOSS_EMP_ENDU;TO_DEFINE;;;-1950;-2220;http://www.swtor-spy.com/datacrons/voss/858/#Voss_datacron_Endurance4;true;false;VOSS;4;Endurance +4
+VOSS_EMP_VIGU;TO_DEFINE;;;655;2049;http://www.swtor-spy.com/datacrons/voss/858/#Voss_datacron_Strength4;true;false;VOSS;4;Strength +4
+VOSS_EMP_ASTU;TO_DEFINE;;;515;175;http://www.swtor-spy.com/datacrons/voss/858/#Voss_datacron_Cunning4;true;false;VOSS;4;Cunning +4
